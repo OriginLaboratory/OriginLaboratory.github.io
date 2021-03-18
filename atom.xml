@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-16T09:38:02.302Z</updated>
+  <updated>2021-03-18T02:30:09.245Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,49 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>庄子</title>
+    <link href="http://example.com/2021/03/18/%E5%BA%84%E5%AD%90/"/>
+    <id>http://example.com/2021/03/18/%E5%BA%84%E5%AD%90/</id>
+    <published>2021-03-18T02:25:58.591Z</published>
+    <updated>2021-03-18T02:30:09.245Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="庄子"><a href="#庄子" class="headerlink" title="庄子"></a>庄子</h2><h3 id="齐物论"><a href="#齐物论" class="headerlink" title="齐物论"></a>齐物论</h3><ol start="2"><li><p>白马非马，白色的马是具体的概念，马是抽象的概念，所以两者不能等同，但是庄子认为不如说马不是白马，把重心从白马的具体概念转移到马的抽象概念中，说天地一马也，不要将注意力放在具体的事物上，而放在更抽象的概念上，极高的抽象程度，天地就相当于一马的概念，即道</p></li><li><p>后接道的概念</p><ol><li><p>道行之而可，物谓之而然：道可具体，像道路一样，也可抽象</p></li><li><p>厉与西施，道通唯一，中国哲学的重要特点，整体观：</p><p>​    1. 但是实际中人做事，其分也，成也；成也，毁也。</p><p>​    分割来看待问题，研究深入，好像成功，但成功了破坏整体    性，也是一种毁</p><ol start="2"><li>凡物无成与毁，复通唯一。实际上没有成和毁，人类文明在宇宙尺度上是沧海一粟，漂亮女孩一百年也化为枯骨，研究的科学成果也可能人类灭亡后不复存在，宇宙仍然是冰冷的，最后复通为一，人生无所谓有无意义，没有成与亏，从更高的跳出社会束缚的概念来看的话</li></ol></li></ol></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;庄子&quot;&gt;&lt;a href=&quot;#庄子&quot; class=&quot;headerlink&quot; title=&quot;庄子&quot;&gt;&lt;/a&gt;庄子&lt;/h2&gt;&lt;h3 id=&quot;齐物论&quot;&gt;&lt;a href=&quot;#齐物论&quot; class=&quot;headerlink&quot; title=&quot;齐物论&quot;&gt;&lt;/a&gt;齐物论&lt;/h3&gt;&lt;o</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JavaScript</title>
+    <link href="http://example.com/2021/03/18/JS/"/>
+    <id>http://example.com/2021/03/18/JS/</id>
+    <published>2021-03-17T23:43:56.792Z</published>
+    <updated>2021-03-18T02:05:57.984Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id=""><a href="#" class="headerlink" title=""></a></h2><ol><li>变量为一个容器，存储某个值</li></ol><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> x =<span class="number">1</span>;<span class="comment">//JS用var表示变量，JS是弱类型语言</span></span><br><span class="line"><span class="keyword">var</span> name = <span class="string">&quot;WILL&quot;</span>;</span><br><span class="line">alert(<span class="string">&quot;name&quot;</span>);<span class="comment">//浏览器控制台，弹出窗口WILL</span></span><br><span class="line"><span class="keyword">var</span> name = prompt();<span class="comment">//弹出窗口输入值，然后值赋给变量</span></span><br><span class="line"><span class="keyword">var</span> name = prompt(<span class="string">&quot;what is your first name&quot;</span>);</span><br><span class="line"><span class="comment">//小程序hello world</span></span><br><span class="line"><span class="keyword">var</span> name = prompt(<span class="string">&quot;whats your name&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> lastName=prompt(<span class="string">&quot;whats your last name&quot;</span>);</span><br><span class="line">alert(name+<span class="string">&quot;,&quot;</span>+lastName);</span><br></pre></td></tr></table></figure><ol start="2"><li><p>if-else:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">if()&#123;</span><br><span class="line">语句;</span><br><span class="line">&#125;</span><br><span class="line">else if()&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">else&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p> 在html划入javascript ，在<body>标签最后放，先加载好页面再执行javaScript<script></p></li></ol>   <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;scripts/main.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><ol start="4"><li><p>函数</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funciton go(a,b)&#123;</span><br><span class="line">return a+b;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>如果变量未赋值或者函数未设置返回值，则为undefined类型</p></li><li><p>数组和循环</p><p>数组及一些方法</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> mylist = [<span class="string">&quot;apples&quot;</span>,<span class="string">&quot;oranges&quot;</span>,<span class="string">&quot;bananas&quot;</span>];</span><br><span class="line">mylist.shift()<span class="comment">//去除第一项，返回第一项</span></span><br><span class="line">mylist.pop()<span class="comment">//去最后一项，返回最后一项</span></span><br><span class="line">mylist.foreach(<span class="function"><span class="keyword">function</span>(<span class="params">value,index</span>))</span>&#123;</span><br><span class="line">               alert(<span class="string">&quot;i have&quot;</span>+value+<span class="string">&quot;in my shopping bag&quot;</span>)</span><br><span class="line">               &#125;)</span><br></pre></td></tr></table></figure><p>循环</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">var time &#x3D; 0</span><br><span class="line">while(time&lt;10)&#123;</span><br><span class="line">console.log(&quot;try it&quot;,time);</span><br><span class="line">time++;</span><br><span class="line">&#125;</span><br><span class="line">do&#123;</span><br><span class="line">console.log(&quot;try it&quot;,time);</span><br><span class="line">time++;</span><br><span class="line">&#125;while(time&lt;10)</span><br><span class="line">for(var i &#x3D; 0;i&lt;mylist.length;i++)&#123;</span><br><span class="line">console.log(&quot;try it&quot;,i);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;变量为一个容器，存储某个值&lt;/li&gt;
+&lt;/ol&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tr</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
