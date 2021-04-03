@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-03-25T15:00:11.779Z</updated>
+  <updated>2021-04-03T16:48:25.123Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,125 +18,15 @@
   
   <entry>
     <title>庄子</title>
-    <link href="http://example.com/2021/03/18/%E5%BA%84%E5%AD%90/"/>
-    <id>http://example.com/2021/03/18/%E5%BA%84%E5%AD%90/</id>
-    <published>2021-03-18T02:25:58.591Z</published>
-    <updated>2021-03-25T15:00:11.779Z</updated>
+    <link href="http://example.com/2021/04/04/%E5%BA%84%E5%AD%90/"/>
+    <id>http://example.com/2021/04/04/%E5%BA%84%E5%AD%90/</id>
+    <published>2021-04-03T16:00:00.000Z</published>
+    <updated>2021-04-03T16:48:25.123Z</updated>
     
     <content type="html"><![CDATA[<h2 id="庄子"><a href="#庄子" class="headerlink" title="庄子"></a>庄子</h2><h3 id="齐物论"><a href="#齐物论" class="headerlink" title="齐物论"></a>齐物论</h3><h2 id=""><a href="#" class="headerlink" title=""></a></h2><p>南郭子綦隐机而坐，仰天而嘘，荅焉似丧其耦。颜成子游立侍乎前，曰：“何居乎？形固可使如槁木，而心固可使如死灰乎？今之隐机者，非昔之隐机者也？”子綦曰：“偃，不亦善乎，而问之也！今者吾丧我，汝知之乎？女闻人籁而未闻地籁，女闻地籁而不闻天籁夫！” 子游曰：“敢问其方。”子綦曰：“夫大块噫气，其名为风。是唯无作，作则万窍怒呺。而独不闻之翏翏乎？山林之畏佳，大木百围之窍穴，似鼻，似口，似耳，似枅，似圈，似臼，似洼者，似污者。激者、謞者、叱者、吸者、叫者、譹者、宎者，咬者，前者唱于而随者唱喁，泠风则小和，飘风则大和，厉风济则众窍为虚。而独不见之调调之刁刁乎？” 子游曰：“地籁则众窍是已，人籁则比竹是已，敢问天籁。”子綦曰：“夫吹万不同，而使其自己也。咸其自取，怒者其谁邪？”</p><p>坐忘</p><ol><li><p>白马非马，白色的马是具体的概念，马是抽象的概念，所以两者不能等同，但是庄子认为不如说马不是白马，把重心从白马的具体概念转移到马的抽象概念中，说天地一马也，不要将注意力放在具体的事物上，而放在更抽象的概念上，极高的抽象程度，天地就相当于一马的概念，即道</p></li><li><p>后接道的概念</p><ol><li><p>道行之而可，物谓之而然：道可具体，像道路一样，也可抽象</p></li><li><p>厉与西施，道通唯一，中国哲学的重要特点，整体观：</p><p>​    1. 但是实际中人做事，其分也，成也；成也，毁也。</p><p>​    分割来看待问题，研究深入，好像成功，但成功了破坏整体    性，也是一种毁</p><ol start="2"><li>凡物无成与毁，复通唯一。实际上没有成和毁，人类文明在宇宙尺度上是沧海一粟，漂亮女孩一百年也化为枯骨，研究的科学成果也可能人类灭亡后不复存在，宇宙仍然是冰冷的，最后复通为一，人生无所谓有无意义，没有成与亏，从更高的跳出社会束缚的概念来看的话</li></ol></li></ol></li></ol>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;庄子&quot;&gt;&lt;a href=&quot;#庄子&quot; class=&quot;headerlink&quot; title=&quot;庄子&quot;&gt;&lt;/a&gt;庄子&lt;/h2&gt;&lt;h3 id=&quot;齐物论&quot;&gt;&lt;a href=&quot;#齐物论&quot; class=&quot;headerlink&quot; title=&quot;齐物论&quot;&gt;&lt;/a&gt;齐物论&lt;/h3&gt;&lt;h</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>JavaScript</title>
-    <link href="http://example.com/2021/03/18/JS/"/>
-    <id>http://example.com/2021/03/18/JS/</id>
-    <published>2021-03-17T23:43:56.792Z</published>
-    <updated>2021-03-18T10:04:41.409Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="基本语法"><a href="#基本语法" class="headerlink" title="基本语法"></a>基本语法</h2><ol><li>变量为一个容器，存储某个值</li></ol><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> x =<span class="number">1</span>;<span class="comment">//JS用var表示变量，JS是弱类型语言</span></span><br><span class="line"><span class="keyword">var</span> name = <span class="string">&quot;WILL&quot;</span>;</span><br><span class="line">alert(<span class="string">&quot;name&quot;</span>);<span class="comment">//浏览器控制台，弹出窗口WILL</span></span><br><span class="line"><span class="keyword">var</span> name = prompt();<span class="comment">//弹出窗口输入值，然后值赋给变量</span></span><br><span class="line"><span class="keyword">var</span> name = prompt(<span class="string">&quot;what is your first name&quot;</span>);</span><br><span class="line"><span class="comment">//小程序hello world</span></span><br><span class="line"><span class="keyword">var</span> name = prompt(<span class="string">&quot;whats your name&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> lastName=prompt(<span class="string">&quot;whats your last name&quot;</span>);</span><br><span class="line">alert(name+<span class="string">&quot;,&quot;</span>+lastName);</span><br></pre></td></tr></table></figure><ol start="2"><li><p>if-else:</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">if()&#123;</span><br><span class="line">语句;</span><br><span class="line">&#125;</span><br><span class="line">else if()&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br><span class="line">else&#123;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li><li><p> 在html划入javascript ，在<body>标签最后放，先加载好页面再执行javaScript<script></p></li></ol>   <figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">&quot;scripts/main.js&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><ol start="4"><li><p>函数</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">funciton go(a,b)&#123;</span><br><span class="line">return a+b;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>如果变量未赋值或者函数未设置返回值，则为undefined类型</p></li><li><p>数组和循环</p><p>数组及一些方法</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> mylist = [<span class="string">&quot;apples&quot;</span>,<span class="string">&quot;oranges&quot;</span>,<span class="string">&quot;bananas&quot;</span>];</span><br><span class="line">mylist.shift()<span class="comment">//去除第一项，返回第一项</span></span><br><span class="line">mylist.pop()<span class="comment">//去最后一项，返回最后一项</span></span><br><span class="line">mylist.foreach(<span class="function"><span class="keyword">function</span>(<span class="params">value,index</span>))</span>&#123;</span><br><span class="line">               alert(<span class="string">&quot;i have&quot;</span>+value+<span class="string">&quot;in my shopping bag&quot;</span>)</span><br><span class="line">               &#125;)</span><br></pre></td></tr></table></figure><p>循环</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">var time &#x3D; 0</span><br><span class="line">while(time&lt;10)&#123;</span><br><span class="line">console.log(&quot;try it&quot;,time);</span><br><span class="line">time++;</span><br><span class="line">&#125;</span><br><span class="line">do&#123;</span><br><span class="line">console.log(&quot;try it&quot;,time);</span><br><span class="line">time++;</span><br><span class="line">&#125;while(time&lt;10)</span><br><span class="line">for(var i &#x3D; 0;i&lt;mylist.length;i++)&#123;</span><br><span class="line">console.log(&quot;try it&quot;,i);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li></ol><p>6DOM 创建一个文档对象，才能和页面中的元素进行交互</p><p> 对象模型，有很多接口，有很多API方法，与html和css交互</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">document.getElementsByTagName(&#39;p&#39;)&#x2F;&#x2F;找到所有的p标签，返回一个数组，包含这些标签</span><br><span class="line">document.getElementsByTagName(&#39;li&#39;)[0]&#x2F;&#x2F;返回数组第一项</span><br><span class="line">var pTags &#x3D; document.getElementsByTagName(&#39;li&#39;)[0]将标签赋值给一个变量</span><br><span class="line">&#x2F;&#x2F;这样对pTag的操作就等同对这个标签操作</span><br><span class="line">document.getElementsByClassName(&#39;feacher-box&#39;)</span><br><span class="line">document.getElementsByClassId(&#39;id名&#39;) </span><br><span class="line">document.querySelector(&quot;ss选择器&quot;)&#x2F;&#x2F;或者类选择器</span><br><span class="line">document.querySelectorAll(&quot;ss选择器&quot;)&#x2F;&#x2F;或者tag</span><br></pre></td></tr></table></figure><p>改变p标签的内容</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">firstPTag = <span class="built_in">document</span>.querySelector(<span class="string">&quot;p&quot;</span>)</span><br><span class="line">firstPTag.innerHTML = <span class="string">&quot;new paragraph&lt;strong&gt;contnets&lt;/strong&gt;&quot;</span><span class="comment">//可以加标签哦</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>操作li标签</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> li = <span class="built_in">document</span>.querySelector(<span class="string">&#x27;li&#x27;</span>);</span><br><span class="line">li.className ;<span class="comment">//得到类名</span></span><br><span class="line">li.className = <span class="string">&quot;done alse-done also&quot;</span>;<span class="comment">//改成三个类名</span></span><br><span class="line">li.className = li.className+<span class="string">&quot;special;//加上一个类名</span></span><br><span class="line"><span class="string">li.className =&quot;</span><span class="string">&quot;//清空类名</span></span><br><span class="line"><span class="string">li.className = li.className.replace(&quot;</span>also-done<span class="string">&quot;,&quot;</span><span class="string">&quot;)//替换</span></span><br></pre></td></tr></table></figure><p>除了增删改还有更多操作 ，如jquery库</p><p>7.兼容问题，新的浏览器可以用但旧的不能   用</p><p>​    caniuse.com</p><h2 id="页面的交互：事件监听"><a href="#页面的交互：事件监听" class="headerlink" title="页面的交互：事件监听"></a>页面的交互：事件监听</h2><h3 id="加法监听"><a href="#加法监听" class="headerlink" title="加法监听"></a>加法监听</h3><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">input</span> <span class="attr">id</span>=<span class="string">&quot;num1&quot;</span>&gt;</span> + <span class="tag">&lt;<span class="name">input</span> <span class="attr">id</span> = <span class="string">&quot;num2&quot;</span> &gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">p</span> <span class="attr">id</span>=<span class="string">&quot;add-sum&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">p</span>&gt;</span></span><br></pre></td></tr></table></figure><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> numOne = <span class="built_in">document</span>.getElementById(<span class="string">&quot;num1&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> numTwo = <span class="built_in">document</span>.getElementById(<span class="string">&quot;num2&quot;</span>);</span><br><span class="line"><span class="keyword">var</span> addSum = <span class="built_in">document</span>.getElementById(<span class="string">&quot;add-sum&quot;</span>);</span><br><span class="line">numOne.addEventListener(<span class="string">&quot;input&quot;</span>, add);</span><br><span class="line"><span class="function"><span class="keyword">function</span> <span class="title">add</span>(<span class="params"></span>)</span>&#123;</span><br><span class="line">    <span class="keyword">var</span> one = numOne.value||<span class="number">0</span>;<span class="comment">//.value取DOM对象的值 若numOne的值是null或者undefined或者NaN就去0，即不是数字就用0代替</span></span><br><span class="line">    <span class="keyword">var</span> two = numTwo.value;</span><br><span class="line">    <span class="comment">//console.log(one, two)控制台展示</span></span><br><span class="line">    addSum.innerHTML = one + two;<span class="comment">//innerHTML为标签&lt;&gt;下的值，可以改变,注意此处为string处理，可以用parsefloat()转换</span></span><br><span class="line">&#125;</span><br><span class="line"> <span class="comment">//若为addSum.innerHTML = &quot;your sum is: &quot;+one + two;则仍为字符串相加</span></span><br><span class="line">numOne.addEventListener(<span class="string">&quot;click&quot;</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;alert(<span class="string">&quot;hi&quot;</span>)&#125;);<span class="comment">//click为点击，监听到点击事件后执行函数alert()</span></span><br><span class="line"><span class="comment">//mouseenter,鼠标移入区域则执行</span></span><br><span class="line"><span class="comment">//mouseleave,鼠标移出区域执行</span></span><br><span class="line"><span class="comment">//monsedown,鼠标按下</span></span><br><span class="line"><span class="comment">//monseup,鼠标放了 click等于两者相加</span></span><br><span class="line"><span class="comment">//keydown,键盘事件</span></span><br><span class="line"><span class="comment">//keyup</span></span><br><span class="line"><span class="comment">//input 输入时会有,</span></span><br></pre></td></tr></table></figure><p>总结：</p><ol><li>步骤如下，先用document对象取得标签对应对象，再对对象进行监听，监听操作+发生后的函数</li><li>注意几个重要的点，比如.innerHTML改变标签内的值，还有.value取得对象的值</li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;基本语法&quot;&gt;&lt;a href=&quot;#基本语法&quot; class=&quot;headerlink&quot; title=&quot;基本语法&quot;&gt;&lt;/a&gt;基本语法&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;变量为一个容器，存储某个值&lt;/li&gt;
-&lt;/ol&gt;
-&lt;figure class=&quot;highlight javasc</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>C语言数据结构笔记</title>
-    <link href="http://example.com/2021/03/17/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    <id>http://example.com/2021/03/17/C%E8%AF%AD%E8%A8%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</id>
-    <published>2021-03-17T12:55:52.191Z</published>
-    <updated>2021-03-18T02:39:48.140Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="线性表"><a href="#线性表" class="headerlink" title="线性表"></a>线性表</h2><h3 id="存储结构"><a href="#存储结构" class="headerlink" title="存储结构"></a>存储结构</h3><ol><li><p>顺序存储结构:</p><ol><li><p>连续的地址 ,起始位置：数组data位置就是存储位置</p></li><li><p>最大存储容量： Maxize</p></li><li><p>当前长度 length</p></li></ol><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">define</span> MAXSIZE 20</span></span><br><span class="line"><span class="keyword">typedef</span> <span class="keyword">int</span> ElemType</span><br><span class="line"><span class="keyword">typedef</span> <span class="class"><span class="keyword">struct</span></span></span><br><span class="line"><span class="class">&#123;</span></span><br><span class="line">ElemType data[MAXSIZE];</span><br><span class="line"><span class="keyword">int</span> length; <span class="comment">//线性表当前长度</span></span><br><span class="line">&#125;Sqlist<span class="comment">//对数组进行封装</span></span><br></pre></td></tr></table></figure><ol start="4"><li><p>LOC(ai+1)=LOC(ai)+C 地址连续性</p><p>故有 LOC(ai) = LOC(a1)+（i-1）*c</p><p>故存储时间恒定（可以算出）为O(1)</p></li><li><pre><code class="C">int GetElem(Sqlist L, int i,ElemType *e)&#123;    if(L.length==0||i&lt;1||i&gt;L.length)&#123;        return 0;    &#125;    *e = L.data(i-1);&#125;int ListInsert(Sqlist *L,int i,ElemType e)&#123;    int k;    if(L.length == MAXSIZE)&#123;        return 0;    &#125;    if(i&lt;1||i&gt;L.length+1)&#123;        return 0;    &#125;    if(i&lt;=L.length)&#123;        for(k=L.length-1;k &gt;= i-1;k--)&#123;            L-&gt;data[k+1]=L-&gt;data[k]//L.length!=MAXSIZE保证了k+1不会过分溢出        &#125;    &#125;    L-&gt;data[i-1]=e;    L-&gt;length--;&#125;int Delete(Sqlist *L,int i)&#123;    int k;    if(i&lt;1||i&gt;L.length)&#123;        return 0;    &#125;    if(L.length==MAXSIZE)&#123;        return 0;    &#125;    if(i&lt;=L.length)&#123;        for(k=L.length-1;k&gt;=i-1;k--)&#123;            L-&gt;data[k]=L-&gt;data[k+1]        &#125;           &#125;       L-&gt;length--;&#125;</code></pre><p>故顺序存储结构在读数据O(1)  ,插入删除则为O(n),长度变化较大时难以确定存储容量</p></li></ol></li></ol>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;线性表&quot;&gt;&lt;a href=&quot;#线性表&quot; class=&quot;headerlink&quot; title=&quot;线性表&quot;&gt;&lt;/a&gt;线性表&lt;/h2&gt;&lt;h3 id=&quot;存储结构&quot;&gt;&lt;a href=&quot;#存储结构&quot; class=&quot;headerlink&quot; title=&quot;存储结构&quot;&gt;&lt;/a&gt;存储结</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2021/03/17/cmd&amp;git/"/>
-    <id>http://example.com/2021/03/17/cmd&amp;git/</id>
-    <published>2021-03-17T12:55:29.788Z</published>
-    <updated>2021-03-17T05:21:57.530Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="cmd"><a href="#cmd" class="headerlink" title="cmd"></a>cmd</h2><p>d: 进入D盘</p><p>pwd 显示当前路径</p><p>cd:文件名 进入本级的下一级文件 </p><p>cd .. /上一级</p><h2 id="gitbash"><a href="#gitbash" class="headerlink" title="gitbash"></a>gitbash</h2><p>cd ~/.ssh 进入.ssh所在目录</p><p>ssh -T <a href="mailto:&#103;&#x69;&#x74;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#x62;&#46;&#x63;&#x6f;&#x6d;">&#103;&#x69;&#x74;&#64;&#103;&#x69;&#116;&#x68;&#x75;&#x62;&#46;&#x63;&#x6f;&#x6d;</a></p><p>git config –list 查看本地配置信息，包括设置的本地用户名和邮箱</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;cmd&quot;&gt;&lt;a href=&quot;#cmd&quot; class=&quot;headerlink&quot; title=&quot;cmd&quot;&gt;&lt;/a&gt;cmd&lt;/h2&gt;&lt;p&gt;d: 进入D盘&lt;/p&gt;
-&lt;p&gt;pwd 显示当前路径&lt;/p&gt;
-&lt;p&gt;cd:文件名 进入本级的下一级文件 &lt;/p&gt;
-&lt;p&gt;cd .. /</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://example.com/2021/03/17/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/"/>
-    <id>http://example.com/2021/03/17/%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/</id>
-    <published>2021-03-17T12:54:30.375Z</published>
-    <updated>2021-03-17T10:42:08.487Z</updated>
-    
-    <content type="html"><![CDATA[<p>读取文件每行并返回列表：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">f &#x3D; open(dogsfile,&quot;r&quot;)</span><br><span class="line">contents &#x3D; f.readlines()</span><br><span class="line">f.close()</span><br><span class="line"></span><br><span class="line">from os import listdir</span><br><span class="line">filename_list &#x3D; listdir(&quot;path&quot;)</span><br></pre></td></tr></table></figure><p>字符串切片</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">str.split(str&#x3D;&quot;,&quot;,num&#x3D;string.count(str))</span><br><span class="line">&#x2F;*num</span><br><span class="line">分割所有</span><br><span class="line">str以,为界分割</span><br><span class="line">默认以空字符分割</span><br><span class="line">返回值为字符串列表</span><br></pre></td></tr></table></figure><p>列表变字典</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">for content in contents:</span><br><span class="line">          names &#x3D; content.split(&quot;,&quot;)  </span><br><span class="line">          </span><br></pre></td></tr></table></figure><p>字典中的键存在时，可以通过字典名+下标的方式访问字典中改键对应的值，若键不存在则会抛出异常。如果想直接向字典中添加元素可以直接用字典名+下标+值的方式添加字典元素，只写键想后期对键赋值这种方式会抛出异常。</p><p>字典长度 len()</p><p>ctrl + z 返回上一步</p><p>多个切片</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;读取文件每行并返回列表：&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2021/03/17/hello-world/"/>
-    <id>http://example.com/2021/03/17/hello-world/</id>
-    <published>2021-03-17T04:52:10.187Z</published>
-    <updated>2021-03-17T04:52:10.187Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">读庄子的一点小感想</summary>
     
     
     
